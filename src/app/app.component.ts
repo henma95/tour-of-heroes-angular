@@ -7,7 +7,7 @@ import { HEROES } from '../mock-heroes';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-    title = 'Angular Tour Of Heroes';
+    title = 'Angular Tour Of Heros';
 }
 export class HeroesComponent {
     heroes = HEROES;
